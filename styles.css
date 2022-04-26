@@ -147,12 +147,11 @@ a span:hover:not(.activetab){
 	background-color: #f0f0f0;
 	border-top: 0.1em solid #c0c0c0;
 	flex-flow: column;
-	text-align: center;
 	padding-left: 0.75em;
 }
 
 .handles, .copyright, .legal{
-	text-align: initial;
+	text-align: center;
 	display: initial;
 	padding: initial;
 	vertical-align: initial;
