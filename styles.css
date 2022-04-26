@@ -135,3 +135,26 @@ a span:hover:not(.activetab){
 	padding-right: 0.75em;
 	vertical-align: middle;
 }
+
+@media screen and (max-width: 540px){
+	.footer{
+	flex: 0 1 auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	border-top: 0.15em solid #172432;
+}
+
+.handles{
+	padding-left: 0.75em;
+}
+
+.copyright{
+	
+}
+
+.legal{
+	padding-right: 0.75em;
+}
+
+}
