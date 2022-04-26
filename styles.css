@@ -136,21 +136,25 @@ a span:hover:not(.activetab){
 	vertical-align: middle;
 }
 
-@media screen and (max-width: 540px){
+@media screen and (max-width: 475px){
 .footer{
 	flex: 0 1 auto;
 	display: flex;
-	justify-content: space-between;
-	align-items: flex-end;
+	table-layout: none;
+	width: initial;
+	justify-content: initial;
+	align-items: initial;
 	background-color: #f0f0f0;
 	border-top: 0.1em solid #c0c0c0;
-}
-.handles{
+	flex-flow: column;
+	text-align: center;
 	padding-left: 0.75em;
 }
-.copyright{
-}
-.legal{
-	padding-right: 0.75em;
+
+.handles, .copyright, .legal{
+	text-align: initial;
+	display: initial;
+	padding: initial;
+	vertical-align: initial;
 }
 }
