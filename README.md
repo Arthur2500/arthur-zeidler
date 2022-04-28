@@ -1,5 +1,5 @@
 # arthur-zeidler.de
 
-this repository contains source code for https://arthur-zeidler.de
+This repository contains source code for https://arthur-zeidler.de
 
-information on copyright is found on https://arthur-zeidler.de/copyright
+Information on copyright can be found on https://arthur-zeidler.de/copyright
