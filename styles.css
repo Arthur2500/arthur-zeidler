@@ -157,7 +157,4 @@ a span:hover:not(.activetab){
 	vertical-align: initial;
 	border-top: 0.1em solid #c0c0c0;
 }
-.copyright, .legal{
-	padding: 0 0.25em 0 0.25em;
-}
 }
