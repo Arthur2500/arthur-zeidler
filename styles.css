@@ -102,8 +102,7 @@ a span:hover:not(.activetab){
 .content{
 	flex: 1 1 auto;
 	display: flex;
-	padding-left: 0.75em;
-	padding-right: 0.75em;
+	padding: 0.75em;
 }
 
 .footer{
