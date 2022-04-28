@@ -155,5 +155,6 @@ a span:hover:not(.activetab){
 	display: initial;
 	padding: initial;
 	vertical-align: initial;
+	border-top: 0.1em solid #c0c0c0;
 }
 }
