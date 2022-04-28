@@ -147,7 +147,7 @@ a span:hover:not(.activetab){
 	background-color: #f0f0f0;
 	border-top: 0.1em solid #c0c0c0;
 	flex-flow: column;
-	padding-left: 0.75em;
+	padding: 0;
 }
 
 .handles, .copyright, .legal{
