@@ -1,10 +1,10 @@
 @font-face {
-	font-family: 'Roboto Flex', sans-serif;
+	font-family: "Roboto Flex", sans-serif;
 	src: url(/resources/RobotoFlex.ttf);
 }
 
 *{
-	font-family: 'Roboto Flex', sans-serif;
+	font-family: "Roboto Flex", sans-serif;
 	transition: all 0.2s ease-in-out;
 	flex-wrap: wrap;
 	outline: none;
