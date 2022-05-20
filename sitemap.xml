@@ -11,10 +11,6 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://arthur-zeidler.de/about</loc>
-  <priority>0.80</priority>
-</url>
-<url>
   <loc>https://arthur-zeidler.de/privacy</loc>
   <priority>0.80</priority>
 </url>
@@ -34,6 +30,4 @@
   <loc>https://arthur-zeidler.de/imprint</loc>
   <priority>0.80</priority>
 </url>
-
-
 </urlset>
