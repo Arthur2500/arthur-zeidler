@@ -148,9 +148,9 @@ footer{
 }
 
 ::-webkit-scrollbar-thumb {
-	background: #fff; 
+	background: #ccc; 
 }
 
 ::-webkit-scrollbar-thumb:hover {
-	background: #ccc; 
+	background: #fff; 
 }
