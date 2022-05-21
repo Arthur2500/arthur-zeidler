@@ -144,13 +144,13 @@ footer{
 }
 
 ::-webkit-scrollbar-track {
-	background: #000; 
+	background: #333;
 }
 
 ::-webkit-scrollbar-thumb {
-	background: #ccc; 
+	background: #ccc;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-	background: #fff; 
+	background: #eee;
 }
