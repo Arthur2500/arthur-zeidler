@@ -54,11 +54,6 @@ a span:hover:not(.activetab){
 	color: White;
 }
 
-::selection{
-	color: Black;
-	background-color: white;
-}
-
 button{
 	border: none;
 	text-decoration: underline;
@@ -137,6 +132,11 @@ footer{
 		width:100%;
 		margin: 0.5em 0;
 	}
+}
+
+::selection{
+	color: Black;
+	background-color: White;
 }
 
 ::-webkit-scrollbar {
