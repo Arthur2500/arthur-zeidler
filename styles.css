@@ -58,8 +58,8 @@ button{
 	border: none;
 	text-decoration: underline;
 	font-size: inherit;
-	background-color: Black;
-	color: White;
+	background-color: inherit;
+	color: inherit;
 	border-radius: 0.1em;
 	padding-right: -0.1em;
 	padding-left: -0.1em;
